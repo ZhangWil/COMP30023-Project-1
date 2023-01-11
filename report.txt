@@ -1,0 +1,1 @@
+Worst case is if every process requested the same file resulting in k where k = number of processes, which is the same as the sequential, while its best scenario can be simply 1, as it is perfectly possible for all processes to be run at time 0.
